@@ -1,2 +1,3 @@
 hello this is the homee page
 Hello Admin page has beeen finsihed
+the notice board page has beeen developed
