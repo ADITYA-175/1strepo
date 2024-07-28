@@ -1,1 +1,2 @@
 hello this is the homee page
+Hello Admin page has beeen finsihed
